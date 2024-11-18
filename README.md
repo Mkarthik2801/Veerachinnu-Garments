@@ -32,7 +32,7 @@ cd veerachinnu garments-website
 
 File Structure:
 
-garmentsco-website/
+Veerachinnu Garments-website/
 ├── index.html       # Main HTML file
 ├── style.css        # CSS file for styling
 ├── script.js        # JavaScript file for interactivity
